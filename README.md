@@ -49,6 +49,8 @@ This project develops a neural network from scratch to recognize my face and dis
 - **tensorflow**: Deep learning framework used for building and training the CNN.  
 - **sklearn**: Used for train/test splitting and evaluation metrics.
 
+---
+
 ## Tools
 
 - **Jupyter Notebook** – Development environment for writing and running code
