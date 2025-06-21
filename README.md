@@ -18,9 +18,6 @@ Sommersemester 2024
 ### Subject
 Autonomous Systems: Deep Learning
 
-### Supervisor
-Prof. Dr.-Ing. Nicolaj Stache (Heilbronn University)
-
 ---
 
 ## Table of Contents
